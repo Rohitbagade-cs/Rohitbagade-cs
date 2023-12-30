@@ -1,5 +1,5 @@
 ![masterhead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h1 align="center"> Hii 👋 I'm Rohit Bagade  </h1> 
+<h1 align="center"> <i>Hii 👋 I'm Rohit Bagade</i>  </h1> 
 
 
 # 💫 About Me:
@@ -14,8 +14,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohitbagade-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif">
+![](https://github-readme-stats.vercel.app/api?username=Rohitbagade-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
+<img align="right" alt="Coding" width="450" height="300" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif"><br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitbagade-cs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitbagade-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
