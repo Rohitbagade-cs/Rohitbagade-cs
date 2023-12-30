@@ -15,9 +15,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rohitbagade-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
-<img display:inline align="right" alt="Coding" width="350" height="300" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif"><br/>
+<img display:inline align="right" alt="Coding" width="350" height="300" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif"><br/><br><br><br><br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitbagade-cs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitbagade-cs&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitbagade-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
