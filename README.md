@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🤝 I’m looking for help with Frontend development<br>🌱 I’m currently learning JavaScript<br>⚡ Fun fact I like to code 😛
+🤝 I’m looking for help with Frontend development<br>🌱 I’m currently learning ReactJs<br>⚡ Fun fact I like to code 😛
 
 
 ## 🌐 Socials:
