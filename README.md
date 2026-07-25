@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Java Full Stack Development<br>👯 I’m looking to collaborate on Backend & API-driven projects<br>🌱 I’m currently learning DevOps (Docker, CI/CD, Cloud basics)<br>💬 Ask me about my projects, Java, Spring Boot, or full-stack development
+🔭 I’m currently working on C# and Java Full Stack Development<br>👯 I’m looking to collaborate on Backend & API-driven projects<br>🌱 I’m currently learning DevOps (Docker, CI/CD, Cloud basics)<br>💬 Ask me about my projects, Java, Spring Boot, or full-stack development
 
 
 ## 🌐 Socials:
